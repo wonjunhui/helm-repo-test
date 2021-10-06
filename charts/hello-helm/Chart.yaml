@@ -1,0 +1,15 @@
+apiVersion: v1
+name: hello-helm
+version: 0.1.0
+kubeVersion: ">=1.15.3"
+description: Sample helm chart for study
+keywords:
+  - hello
+  - sample
+home: "https://github.com/wonjunhui/helm-repo-test"
+sources:
+  - https://wonjunhui.github.io/helm-repo-test/stable
+icon: https://d36jcksde1wxzq.cloudfront.net/saas-mega/blueFingerprint.png
+appVersion: latest
+deprecated: false
+tillerVersion: ">2.0.0"
