@@ -16,6 +16,6 @@ entries:
     sources:
     - https://wonjunhui.github.io/helm-repo-test/
     urls:
-    - charts/hello-helm-0.1.1.tgz
+    - hello-helm-0.1.1.tgz
     version: 0.1.1
 generated: "2021-10-06T14:55:20.023042+09:00"
